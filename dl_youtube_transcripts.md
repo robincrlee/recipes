@@ -1,10 +1,10 @@
 # How to download transcripts youtube video?
 
 ## Why?
-I am downloading video transcripts of technical and academic talks on youtube. 
+The transcripts of youtube videos are helpful to demonstrate success factors of an engaging talk.
 The transcripts can be annotated to show the structure, hooks, and key argument of each talk.
-Currently, I am annotating the talk transcript to demonstrate components of an engaging talk.
-But this might be useful for analyzing video content at scale.
+Analysts can annotate individual vidoes, or programatticaly analyzing video content at scale.
+
 
 ## Do you know that YouTube has a hidden feature on timestamp and transcript?
 
